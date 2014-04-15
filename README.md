@@ -45,9 +45,9 @@ Disallow:
 Sitemap: http://example.com/Home/Sitemap
 ```
 
-Protocol specification: http://www.sitemaps.org/protocol.html
+**Protocol specification**: http://www.sitemaps.org/protocol.html
 
-Home website: http://michael.verhov.com/en/post/asp_mvc_sitemap_builder
+**Home website**: http://michael.verhov.com/en/post/asp_mvc_sitemap_builder
 
 The MIT License (MIT)
 -----------
