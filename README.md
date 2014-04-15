@@ -1,7 +1,7 @@
 MvcSitemapBuilder (C#)
 ====================
 
-Dynamically building XML Sitemap in Asp Mvc Applications
+Building XML Sitemap in Asp .Net Mvc Applications.
 
 
 Usage
@@ -44,6 +44,10 @@ Disallow:
 
 Sitemap: http://example.com/Home/Sitemap
 ```
+
+Protocol specification: http://www.sitemaps.org/protocol.html
+
+Home website: http://michael.verhov.com/en/post/asp_mvc_sitemap_builder
 
 The MIT License (MIT)
 -----------
